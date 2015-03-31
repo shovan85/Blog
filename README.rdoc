@@ -1,4 +1,4 @@
-Test Rails Application - shovan85 - updating again for SSH
+Test Rails Application - shovan85 - updating again for SSH - Though Error it works
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
